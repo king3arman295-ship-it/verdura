@@ -31,7 +31,7 @@ export default function Navbar() {
             <Leaf className="h-5 w-5" />
           </span>
           <span className="font-display text-xl font-semibold tracking-tight text-sage-900">
-            Verdura
+            The hashim herbal store
           </span>
         </Link>
 
